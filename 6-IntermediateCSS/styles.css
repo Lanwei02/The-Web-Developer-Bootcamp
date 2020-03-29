@@ -1,0 +1,27 @@
+p {
+	font-family: Arial;
+}
+
+h1{
+	font-family: Pacifico;
+}
+
+body {
+	font-size: 20px;
+}
+
+h1{
+	font-size: 2em;
+	text-align: center;
+	text-decoration: line-through;;
+}
+
+span{
+	font-size: 4em;
+}
+
+p{
+	font-weight: bold;
+	line-height: 2; /*double space - 2 times*/
+	text-decoration: underline;
+}
